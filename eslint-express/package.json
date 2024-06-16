@@ -1,0 +1,25 @@
+{
+  "name": "prettier-eslint-husky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "express": "^4.19.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@eslint/compat": "^1.1.0",
+    "@eslint/js": "^9.5.0",
+    "eslint": "9.x",
+    "eslint-plugin-react": "^7.34.2",
+    "globals": "^15.5.0",
+    "typescript-eslint": "^7.13.0"
+  }
+}
